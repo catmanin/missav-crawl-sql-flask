@@ -1,5 +1,5 @@
 # MissAV Exhaustive Crawler & m3u8 Link Database Project
-
+[点击这里观看视频展示](https://github.com/catmanin/missav-crawl-sql-flask/blob/main/flask%E6%9E%B6%E6%9E%84%E4%B8%8B%E5%8A%9F%E8%83%BD%E5%B1%95%E7%A4%BA.wmv)
 ## 1. 项目概述 (Project Overview) - v2.0
 
 本项目是一个大规模数据采集与管理系统，旨在实现一个明确且具有挑战性的目标：
